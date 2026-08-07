@@ -1,0 +1,6 @@
+*.log
+*.tmp
+backup.json
+Thumbs.db
+desktop.ini
+.vscode/
